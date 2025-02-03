@@ -1,0 +1,15 @@
+Algoritmo ChaveEuromilhões;
+Variáveis numero1, numero2, numero3, numero4,numero5: inteiro,
+           estrela1, estrela2: inteiro;
+
+Início
+    n1 <- GerarNumeroPseudoaleatorio(1, 50);
+    n2 <- GerarNumeroPseudoaleatorio(1, 50);
+    n3 <- GerarNumeroPseudoaleatorio(1; 50)
+    n4 <- GerarNumeroPseudoaleatorio(1; 50)
+
+e1 <- GerarNumeroPseudoaleatorio(1, 12)
+e1 <- GerarNumeroPseudoaleatorio(1, 12)
+
+    escrever(n1, n2, n3, n4, n5, e1, e2)
+    fim

@@ -1,0 +1,15 @@
+´´´
+programador.....: (C) 20125 Rafael Correia
+Data............: 08/01/2025
+Observações.....: Permite testar se dois números inteiros são iguais.
+
+
+n1 = int(input("Introduza um número inteiro:"))
+n2 = int(input("Introduza outro número inteiro:"))
+
+
+
+if(n1 == n2):
+     pint(" os números são iguai.")
+     else:
+         print("os números são diferentes.")
