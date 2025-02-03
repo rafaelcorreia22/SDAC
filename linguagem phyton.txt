@@ -1,0 +1,20 @@
+
+phyton
+
+Programador....: (C) Rafael correia
+Data...........: 13/12/2024
+Observações ....: Soma de dois valores
+
+,,,
+
+a= 0;
+b= 0;
+
+a  = input(" introduza um número inteiro: ")
+
+b  =("Introduza outro número inteiro ")
+
+soma = a + b
+
+print(" o resultado da soma",a,  "+" , b, "=", soma)
+

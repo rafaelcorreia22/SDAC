@@ -1,0 +1,13 @@
+
+Algoritmo soma;
+Variáveis a,b soma : inteiro;
+Início
+           Escrever ("Introduza um número inteiro")
+           Ler(a);
+           Escrever (" introduza outro número inteiro : ");
+            Ler (b)
+           soma« a+b;
+           Escrever ("o resultado da soma", a," +" , b," "=", soma);
+
+
+Fim.
