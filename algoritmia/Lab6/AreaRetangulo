@@ -1,0 +1,4 @@
+comprimento = float(input("introduza o comprimento do retangulo))
+Largura = float(input(introduza a largura do retangulo:))
+area = comprimento * largura
+print("O resultado é",area)

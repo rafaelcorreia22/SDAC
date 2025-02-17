@@ -1,0 +1,6 @@
+Inicio
+Escrever("Introduza o comprimento do retangulo.")
+Ler(Largura)
+area<- comprimento e Largura
+Escrever("O resultado é",area)
+fim 
